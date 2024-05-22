@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://github.com/Cho-yool/Cho-yool/assets/139312827/aa0ced9e-0adc-45e9-9a98-97b91aff676c" />
+  <img src="https://github.com/Cho-yool/Cho-yool/assets/139312827/4f3f0e74-fe2d-4716-81b0-eaf7ee7c68c6" />
 </div>
 
