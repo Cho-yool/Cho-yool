@@ -1,1 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,14,15&height=300&section=header&text=SeongHo's%20Github&fontSize=90&fontColor=E0F8F7" />
+<!--타이틀 부분-->
+<div align="center">
+  <img src="https://github.com/Cho-yool/Cho-yool/assets/139312827/47f310a5-5dfb-4b00-9521-691d94340a32" />
+</div>
