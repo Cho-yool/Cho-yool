@@ -1,3 +1,4 @@
+<div align="center">
 <!--타이틀 부분-->
 <div align="center">
   <picture>
@@ -12,7 +13,9 @@
   </picture>
 </div>
 
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cho-yool&show_icons=true&theme=ambient_gradient&height=300)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=donut&theme=ambient_gradient&height=300)
+  
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
@@ -91,3 +94,4 @@
   </a>
 </div>
 -->
+</div>
